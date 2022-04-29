@@ -1,4 +1,4 @@
-### Olá! Eu sou a Camila Olliver
+### Olá! Eu sou a Camila Oliver
 
 - 💻 Desenvolvedora Full Stack e Analista de Dados
 - 🎓 Formada em Matemática e cursando Analise e Desenvolvimento de Sistemas e Química
