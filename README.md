@@ -4,8 +4,10 @@
 - 🎓 Formada em Matemática e cursando Analise e Desenvolvimento de Sistemas e Química
 - 📱 Criadora de conteúdo de programação, ciência e tecnologia
 
+
 <div align="center">
   <a href="https://github.com/camilaoliver">
+  <img height="180em" src="https://user-images.githubusercontent.com/81990078/166071973-660d06e6-3a6a-464b-870f-3312c9f7ec92.png"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaoliver&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaoliver&layout=compact&langs_count=7&theme=synthwave"/>
     </div>
