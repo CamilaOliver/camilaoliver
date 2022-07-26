@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Camila Oliver
 
-- 💻 Analista de Dados e  Desenvolvedora Full Stack; 
-- 🎓 Formada em Matemática e cursando Analise e Desenvolvimento de Sistemas e Química;
-- 📱 Criadora de conteúdo de programação, ciência e tecnologia (@nerdeextas e @arquivosxdouniverso).
+- 💻 Analista de Dados e Desenvolvedora Full Stack
+- 🎓 Formada em Matemática e cursando Analise e Desenvolvimento de Sistemas e Química
+- 📱 Criadora de conteúdo de programação, ciência e tecnologia (@nerdextas e @arquivosxdouniverso)
 
 
 <div align="center">
