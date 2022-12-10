@@ -2,7 +2,7 @@
 
 - 💻 Analista de Dados e Desenvolvedora Full Stack
 - 🎓 Formada em Matemática e cursando Analise e Desenvolvimento de Sistemas e Química
-- 📱 Criadora de conteúdo de programação, ciência e tecnologia (@nerdextas e @arquivosxdouniverso)
+- 📱 Criadora de conteúdo de programação, ciência e tecnologia (@mila_codes e @arquivosxdouniverso)
 
 
 <div align="center">
@@ -26,8 +26,7 @@
 ##
   
 <div> 
-  <a href="https://instagram.com/milamistry" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/nerdexatas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/mila_codes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/arquivosxdouniverso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/milamistry" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camila-oliver-11351616b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
