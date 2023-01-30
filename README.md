@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Camila Oliver
 
 - 💻 Analista de Dados e Desenvolvedora Full Stack
-- 🎓 Formada em Matemática e cursando Analise e Desenvolvimento de Sistemas e Química
+- 🎓 Formada em Matemática e cursando Analise e Desenvolvimento de Sistemas e Ciência de Dados
 - 📱 Criadora de conteúdo de programação, ciência e tecnologia (@mila_codes e @arquivosxdouniverso)
 
 
@@ -30,6 +30,6 @@
  	<a href="https://www.twitch.tv/mila_codes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camila-oliver-11351616b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-   ![Snake animation](https://github.com/camilaoliver/camilaoliver/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
 
