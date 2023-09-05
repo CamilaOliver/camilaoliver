@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Camila Oliver
 
 - 💻 Analista de Dados e Desenvolvedora Full Stack
-- 🎓 Formada em Matemática, cursando Química, Física e Ciência de Dados
+- 🎓 Formada em Matemática, Análise e Desenvolvimento de Sistemas
 - 📱 Criadora de conteúdo de programação, ciência e tecnologia (@mila_codes e @arquivosxdouniverso)
 
 
