@@ -2,7 +2,7 @@
 
 - 💻 Analista de Dados e Desenvolvedora Full Stack
 - 🎓 Formada em Matemática, cursando Química, Física e Ciência de Dados
-- 📱 Criadora de conteúdo de programação, ciência e tecnologia (@mila_science e @arquivosxdouniverso)
+- 📱 Criadora de conteúdo de programação, ciência e tecnologia (@mila_codes e @arquivosxdouniverso)
 
 
 <div align="center">
