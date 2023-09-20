@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Camila Oliver
 
 - 💻 Desenvolvedora Full Stack
-- 🎓 Formada em Matemática, Análise e Desenvolvimento de Sistemas
+- 🎓 Formada em Matemática, Química e cursando Analise e Desenvolvimento de Sitemas
 - 📱 Criadora de conteúdo de programação, ciência e tecnologia (@nerdexatas e @arquivosxdouniverso)
 
 
