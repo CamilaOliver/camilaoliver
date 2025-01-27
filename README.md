@@ -2,7 +2,6 @@
 
 - 💻 Desenvolvedora Full Stack e Analista de Dados
 - 🎓 Formada em Matemática e Química
-- 📱 Criadora de conteúdo de programação (@camilaoliver__)
 
 
 <div align="center">
