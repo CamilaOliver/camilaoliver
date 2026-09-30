@@ -1,133 +1,217 @@
-# 👩🏻‍💻 Camila Oliver
+# 💗 Camila Oliver
+
+<div align="center">
 
 ### `Data Analyst` • `Data Engineer` • `Python Developer` • `AI Enthusiast`
 
-> **Transformando dados em conhecimento, código em soluções e curiosidade em projetos.** 🧪📊🤖
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4da6&height=120&section=header&text=Camila%20Oliver&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-Sou profissional de **Dados e Tecnologia**, com formação em **Matemática e Química** e experiência em desenvolvimento, análise de dados, BI, automação e engenharia de dados.
+### 💗 Transformando dados em conhecimento, código em soluções e curiosidade em projetos.
 
-Atualmente, estou direcionando minha carreira cada vez mais para **Engenharia de Dados + Inteligência Artificial**, explorando a conexão entre tecnologia, ciência e dados.
+**🧮 Matemática + 🧪 Química + 📊 Dados + 🤖 IA + 💻 Tecnologia**
+
+</div>
+
+---
+
+## 🌸 Sobre mim
+
+Sou profissional de **Dados e Tecnologia**, formada em **Matemática e Química**, com experiência em desenvolvimento, análise de dados, BI, automação e engenharia de dados.
+
+Atualmente, estou direcionando minha carreira para **Engenharia de Dados + Inteligência Artificial**, explorando a conexão entre tecnologia, ciência e dados.
 
 ```python
 camila = {
-    "name": "Camila Oliver",
-    "location": "Brasil 🇧🇷",
-    "background": ["Matemática", "Química", "Tecnologia"],
-    "focus": ["Data Engineering", "Data Analytics", "Artificial Intelligence"],
-    "languages": ["Python", "SQL", "JavaScript", "PHP"],
-    "tools": ["Power BI", "Docker", "Airflow", "Kestra", "AWS"],
-    "currently_learning": [
-        "Engenharia de Dados",
-        "Machine Learning",
-        "LLMs & RAG",
-        "Cloud Computing"
-    ]
+    "nome": "Camila Oliver",
+    "local": "Franca - SP 🇧🇷",
+
+    "formacao": [
+        "Matemática",
+        "Química"
+    ],
+
+    "foco": [
+        "Data Analytics",
+        "Data Engineering",
+        "Artificial Intelligence"
+    ],
+
+    "linguagens": [
+        "Python",
+        "SQL",
+        "JavaScript",
+        "PHP"
+    ],
+
+    "objetivo": "Construir soluções usando dados, tecnologia e ciência 💗"
 }
 ```
 
 ---
 
-## 🧠 O que eu faço
+## 🎀 O que eu faço
 
-📊 **Data Analytics**
+<table>
+<tr>
 
-* Análise exploratória de dados
-* KPIs e indicadores
-* Power BI
-* DAX
-* Modelagem de dados
-* CRM e segmentação
-* RFM
-* Análise estatística
+<td width="50%">
 
-⚙️ **Data Engineering**
+### 📊 Data Analytics
 
-* ETL / ELT
-* SQL
-* Python
-* Airflow
-* Kestra
-* APIs
-* Automação de pipelines
-* Bancos relacionais
+* 🔹 Análise exploratória
+* 🔹 KPIs e indicadores
+* 🔹 Power BI
+* 🔹 DAX
+* 🔹 Modelagem de dados
+* 🔹 CRM e segmentação
+* 🔹 RFM
+* 🔹 Estatística
 
-🤖 **Artificial Intelligence**
+</td>
 
-* Machine Learning
-* Scikit-learn
-* XGBoost
-* LLMs
-* RAG
-* LangChain / LangGraph
-* IA aplicada a dados
+<td width="50%">
 
-💻 **Development**
+### ⚙️ Data Engineering
 
-* Python
-* Django
-* FastAPI
-* Flask
-* PHP / Laravel
-* JavaScript
-* APIs REST
+* 🔹 ETL / ELT
+* 🔹 Python
+* 🔹 SQL
+* 🔹 Airflow
+* 🔹 Kestra
+* 🔹 APIs
+* 🔹 Automação de pipelines
+* 🔹 Bancos de dados
 
-☁️ **Cloud & Data Platforms**
+</td>
 
-* AWS
-* Microsoft Azure
-* Google Cloud
-* Databricks
-* Microsoft Fabric
+</tr>
+
+<tr>
+
+<td>
+
+### 🤖 Artificial Intelligence
+
+* 🔹 Machine Learning
+* 🔹 Scikit-learn
+* 🔹 XGBoost
+* 🔹 LLMs
+* 🔹 RAG
+* 🔹 LangChain
+* 🔹 LangGraph
+* 🔹 IA aplicada a dados
+
+</td>
+
+<td>
+
+### 💻 Development
+
+* 🔹 Python
+* 🔹 Django
+* 🔹 FastAPI
+* 🔹 Flask
+* 🔹 PHP / Laravel
+* 🔹 JavaScript
+* 🔹 APIs REST
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🧪 Dados + Ciência
+# 💻 Tecnologias
 
-Uma das coisas que mais gosto na tecnologia é poder conectar áreas diferentes.
+### 🐍 Linguagens
 
-**Matemática + Química + Dados + IA**
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,postgresql" />
+
+</p>
+
+### 🧩 Frameworks & Desenvolvimento
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,laravel,nodejs" />
+
+</p>
+
+### 📊 Dados & Inteligência Artificial
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+
+</p>
+
+### ☁️ Cloud & Infrastructure
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github" />
+
+</p>
+
+---
+
+# 🧠 Minha Stack
 
 ```text
-        🧮 Matemática
-             │
-             ▼
-       📊 Estatística
-             │
-             ▼
-🧪 Química ──┼── 🤖 Inteligência Artificial
-             │
-             ▼
-       ⚙️ Engenharia
-        de Dados
+                         💗 CAMILA OLIVER
+                               │
+             ┌─────────────────┼─────────────────┐
+             │                 │                 │
+             ▼                 ▼                 ▼
+        📊 DATA            ⚙️ ENGINEERING       🤖 IA
+             │                 │                 │
+        Power BI             Python          Machine Learning
+        SQL                  SQL             XGBoost
+        DAX                  Airflow         LLMs
+        RFM                  Kestra          RAG
+        Estatística          APIs            LangGraph
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               │
+                               ▼
+                         ☁️ CLOUD
+                               │
+                  AWS • Azure • GCP
+                               │
+                               ▼
+                       🏗️ DATA PLATFORM
+                               │
+              Databricks • Fabric • Docker
 ```
 
-Meu objetivo é explorar cada vez mais projetos que conectem **ciência, tecnologia e inteligência artificial**.
+---
+
+# 🚀 Projetos em destaque
+
+### 💗 CRM & Customer Analytics
+
+Projetos de análise de comportamento de clientes, segmentação, RFM, frequência de compra, ticket médio e indicadores de CRM.
+
+**`Python` `SQL` `Power BI` `Pandas` `Scikit-learn`**
 
 ---
 
-## 🚀 Projetos
+### 📈 Price Elasticity
 
-### 📊 CRM & Customer Analytics
+Análise da relação entre **preço e demanda**, utilizando dados históricos para investigar o comportamento de vendas.
 
-Segmentação de clientes, análise de comportamento, RFM, ticket médio, frequência de compra e indicadores de CRM.
-
-**Stack:** `Python` `SQL` `Power BI` `Pandas` `Scikit-learn`
-
----
-
-### 💰 Price Elasticity
-
-Projeto de análise da relação entre **preço e demanda**, utilizando dados históricos para investigar comportamento de vendas.
-
-**Stack:** `Python` `SQL` `Power BI` `Statistics`
+**`Python` `SQL` `Power BI` `Statistics`**
 
 ---
 
 ### ⚙️ Data Pipelines
 
-Construção e automação de pipelines para ingestão, transformação e disponibilização de dados.
+Construção de pipelines para ingestão, transformação, automação e disponibilização de dados.
 
-**Stack:** `Python` `SQL` `Airflow` `Kestra` `APIs`
+**`Python` `SQL` `Airflow` `Kestra` `APIs`**
 
 ---
 
@@ -135,135 +219,116 @@ Construção e automação de pipelines para ingestão, transformação e dispon
 
 Projetos de classificação, regressão, clustering e previsão utilizando algoritmos de Machine Learning.
 
-**Stack:** `Python` `Pandas` `Scikit-learn` `XGBoost`
+**`Python` `Pandas` `Scikit-learn` `XGBoost`**
 
 ---
 
 ### 🧪 Science + Data
 
-Projetos experimentais conectando **dados, estatística, programação e ciência**.
+Projetos que conectam **Matemática, Química, Estatística, programação e dados**.
 
-> Porque dados também podem contar histórias sobre o mundo físico. 🔬
-
----
-
-## 🛠️ Tecnologias
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css,sql" />
-</p>
-
-### Data & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
-</p>
-
-### Cloud & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github" />
-</p>
-
-### Data Engineering
-
-```text
-Python
-   │
-   ├── Pandas
-   ├── NumPy
-   ├── Scikit-learn
-   │
-   ▼
-ETL / ELT
-   │
-   ├── Airflow
-   ├── Kestra
-   └── APIs
-   │
-   ▼
-Data Warehouse / Lakehouse
-   │
-   ├── SQL
-   ├── Databricks
-   └── Microsoft Fabric
-   │
-   ▼
-Analytics
-   │
-   └── Power BI
-```
+> 🔬 Porque ciência também pode ser explorada através dos dados.
 
 ---
 
-## 📈 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=camilaoliver&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaoliver&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaoliver&layout=compact&langs_count=8&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaoliver&layout=compact&langs_count=8&theme=omni&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🧩 Atualmente estudando
+# 🌷 Atualmente estudando
+
+<div align="center">
+
+| 🌸 Área | 📚 Estudos              |
+| ------- | ----------------------- |
+| ⚙️      | Engenharia de Dados     |
+| 🤖      | Inteligência Artificial |
+| 🧠      | Machine Learning        |
+| ☁️      | Cloud Computing         |
+| 🏗️     | Arquitetura de Dados    |
+| 🗄️     | Bancos de Dados         |
+| 📐      | Estatística             |
+| 🧪      | Computação Científica   |
+
+</div>
+
+---
+
+# 🌌 Tech + Science
 
 ```text
-┌─────────────────────────────────────────┐
-│           🚀 CURRENTLY LEARNING         │
-├─────────────────────────────────────────┤
-│                                         │
-│  ⚙️  Data Engineering                   │
-│  🤖  Artificial Intelligence             │
-│  🧠  Machine Learning                   │
-│  ☁️  Cloud Computing                    │
-│  🏗️  Data Architecture                  │
-│  🗄️  Databases                          │
-│  📐  Statistics                         │
-│  🔬  Computational Science              │
-│                                         │
-└─────────────────────────────────────────┘
+        🧮 MATEMÁTICA
+              │
+              ▼
+         📐 ESTATÍSTICA
+              │
+              ▼
+🧪 QUÍMICA ───┼─── 🤖 INTELIGÊNCIA ARTIFICIAL
+              │
+              ▼
+        📊 CIÊNCIA DE DADOS
+              │
+              ▼
+        ⚙️ ENGENHARIA
+          DE DADOS
+              │
+              ▼
+        🚀 TECNOLOGIA
 ```
 
----
+### 💗 Meu objetivo
 
-## 🌌 Fora do código
-
-Quando não estou trabalhando com dados, provavelmente estou:
-
-🔭 observando o céu
-🧪 estudando ciência
-📚 lendo
-🎮 jogando
-🎬 assistindo ficção científica e animes
-💡 criando algum projeto que provavelmente começou com *"e se eu tentasse..."*
+> **Usar tecnologia para transformar dados em conhecimento e conhecimento em soluções.**
 
 ---
 
-## 📫 Vamos conversar?
+# 🎮 Fora do código
+
+Quando não estou programando, provavelmente estou:
+
+🔭 Observando o céu
+🧪 Estudando ciência
+📚 Lendo
+🎮 Jogando
+🎬 Assistindo filmes, séries e animes
+🌌 Explorando astronomia
+🎸 Ouvindo rock
+💡 Criando algum projeto que começou com:
+
+> *"E se eu tentasse fazer isso?"* 👀
+
+---
+
+# 📫 Vamos conversar?
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/camila-oliver-11351616b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/tech_camila">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### `while(alive): learn(); build(); experiment();`
+### 💗 `code() + data() + science() + curiosity()`
 
-**"Curiosidade é o combustível. Dados são o caminho."** 🧠✨
+### ✨ "Curiosidade é o combustível. Dados são o caminho."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4da6&height=100&section=footer"/>
 
 </div>
